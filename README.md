@@ -8,7 +8,8 @@
 - MongoDB
 - JWT Authentication
 
-## Features (in progress)
+## Features
+- Registration
 - User authentication
 - Email verification
 - Protected routes
