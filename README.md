@@ -1,6 +1,4 @@
-# MERN Auth Projects
-
-🚧 This project is currently under development.
+# MERN Authentication System
 
 ## Tech Stack
 - React + Vite
