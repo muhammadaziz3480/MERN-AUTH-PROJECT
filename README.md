@@ -4,6 +4,7 @@
 
 ## Tech Stack
 - React + Vite
+- Tailwind
 - Node.js
 - Express
 - MongoDB
@@ -13,6 +14,8 @@
 - User authentication
 - Email verification
 - Protected routes
+- OTP verification
+- Password reset
 
 ## Status
-⚠️ Work in progress – updates coming soon.
+Completed ✅
