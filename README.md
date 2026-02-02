@@ -1,4 +1,4 @@
-# MERN Auth Project (Work in Progress)
+# MERN Auth Projects
 
 🚧 This project is currently under development.
 
